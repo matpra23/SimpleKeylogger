@@ -44,4 +44,3 @@ Funkcja callback wywoływana przy każdym naciśnięciu klawisza.
 ### Format logów
 Każde zdarzenie jest zapisywane w formacie:
 RRRR-MM-DD GG:MM:SS,mmm: <klawisz>
-# SimpleKeylogger
